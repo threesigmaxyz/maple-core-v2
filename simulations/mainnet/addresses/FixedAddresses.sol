@@ -7,7 +7,7 @@ contract FixedAddresses {
     /*** Multisigs / EOAs                                                                                                               ***/
     /**************************************************************************************************************************************/
 
-    address constant deployer          = 0x632a45c25d2139E6B2745eC3e7D309dEf99f2b9F;
+    address constant deployer          = 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266;
     address constant globalAdmin       = 0x93CC3E39C91cf93fd57acA416ed6fE66e8bdD573;
     address constant governor          = 0xd6d4Bcde6c816F17889f1Dd3000aF0261B03a196;
     address constant mapleTreasury     = 0xa9466EaBd096449d650D5AEB0dD3dA6F52FD0B19;
